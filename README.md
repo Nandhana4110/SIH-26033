@@ -15,7 +15,7 @@ Agriculture, FoodTech & Rural Development
 ## Problem Description
 Expected Solution: Create a digital marketplace that:
 
-• Connects farmers/FPOs directly with consumers and bulk buyers.
+• Connects farmers/FPOs directly with consumers and bulk buyers.\n
 • Provides logistics support.
 • Uses AI for demand forecasting and route optimization.
 
