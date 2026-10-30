@@ -154,6 +154,7 @@ CropBridge is technically achievable as a prototype and has potential for expans
 ○ Environmental Impact
 
  • Efficient route planning can reduce unnecessary transportation.
+ 
  • Better storage and distribution planning can reduce food wastage.
  • Improved demand prediction can support better resource utilization.
  • Reduced product spoilage can help conserve agricultural resources.
