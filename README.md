@@ -181,8 +181,6 @@ CropBridge is technically achievable as a prototype and has potential for expans
  
  • Helps reduce avoidable supply-chain costs.
  
- • Improves access to agricultural products.
- 
 
 ○ Benefits to the Agricultural Sector
 
