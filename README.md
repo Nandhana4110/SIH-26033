@@ -104,6 +104,7 @@ AI Implementation
  • Analysing historical market price trends.
 
 System Architecture
+
 <img width="621" height="2323" alt="Farmer Crop Supply Chain Management Template" src="https://github.com/user-attachments/assets/e8ba5740-fa1b-4c6d-b327-2b507ac4a567" />
 
 
@@ -133,11 +134,17 @@ Business Viability
 Challenges and Solutions
 
         Challenges               |       Proposed Solutions
+        
  Lack of storage facilities      |     Nearby storage locator
+ 
  High transportation costs       |       Route optimization
+ 
  Unexpected demand changes       |      AI demand prediction
+ 
   Perishable crop wastage        |  Distribution priority alerts
+  
  Limited market information      |     Market recommendation
+ 
 Lack of transport availability   |  Transport provider connections
 
 CropBridge is technically achievable as a prototype and has potential for expansion through partnerships with storage facilities, transport providers and agricultural organizations.
