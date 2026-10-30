@@ -15,7 +15,7 @@ Agriculture, FoodTech & Rural Development
 ## Problem Description
 Expected Solution: Create a digital marketplace that:
 
-• Connects farmers/FPOs directly with consumers and bulk buyers.\n
+• Connects farmers/FPOs directly with consumers and bulk buyers.
 • Provides logistics support.
 • Uses AI for demand forecasting and route optimization.
 
@@ -92,8 +92,8 @@ AI Implementation
  • Analysing historical market price trends.
 
 System Architecture
+<img width="621" height="2323" alt="Farmer Crop Supply Chain Management Template" src="https://github.com/user-attachments/assets/e8ba5740-fa1b-4c6d-b327-2b507ac4a567" />
 
-{"type":"excalidraw/clipboard","elements":[],"files":{}}
 
 ## Feasibility and Viability
 The platform provides a simple interface where farmers can upload crop information and find suitable markets, storage facilities and transportation options.
