@@ -51,6 +51,7 @@ The proposed solution aims to improve agricultural distribution, reduce unnecess
 ## Technical Approach
 CropBridge will be developed as a web-based agricultural supply-chain application using Python, database technologies, Artificial Intelligence and digital mapping services.
 
+
 ○ Technologies Used
 
  • Frontend: HTML, CSS and JavaScript
@@ -62,6 +63,7 @@ CropBridge will be developed as a web-based agricultural supply-chain applicatio
  • AI/ML: Python, Pandas and Scikit-learn
  
  • Maps and Routes: OpenStreetMap or Google Maps API
+ 
 
 ○ Implementation Steps
 
@@ -88,6 +90,7 @@ CropBridge will be developed as a web-based agricultural supply-chain applicatio
 
  Step 8 – Tracking and Notifications
  The platform provides updates about product availability, orders and delivery status.
+ 
 
 AI Implementation
 
@@ -102,6 +105,7 @@ AI Implementation
  • Prioritizing distribution of perishable products.
  
  • Analysing historical market price trends.
+ 
 
 ○ System Architecture
 
@@ -117,9 +121,10 @@ Economic Feasibility
 The initial prototype can be developed using open-source software and freely available development tools.
 The project can initially operate without owning warehouses or transportation vehicles by connecting users with existing service providers.
 
-Business Viability
 
-○ The platform can generate revenue through:
+○ Business Viability
+
+The platform can generate revenue through:
 
  • Partnerships with warehouses and cold storage providers.
  
@@ -130,8 +135,9 @@ Business Viability
  • Premium market-analysis services.
  
  • Partnerships with FPOs and agricultural organizations.
+ 
 
-Challenges and Solutions
+○ Challenges and Solutions
 
         Challenges               |       Proposed Solutions
         
@@ -147,9 +153,11 @@ Challenges and Solutions
  
 Lack of transport availability   |       Transport provider connections
 
+
 CropBridge is technically achievable as a prototype and has potential for expansion through partnerships with storage facilities, transport providers and agricultural organizations.
 
 ## Impact and Benefits
+
 ○ Benefits to Farmers
 
  • Helps identify suitable markets for agricultural products.
@@ -163,6 +171,7 @@ CropBridge is technically achievable as a prototype and has potential for expans
  • Improves agricultural distribution planning.
  
  • Supports better selling decisions.
+ 
 
 ○ Benefits to Consumers
 
@@ -173,6 +182,7 @@ CropBridge is technically achievable as a prototype and has potential for expans
  • Helps reduce avoidable supply-chain costs.
  
  • Improves access to agricultural products.
+ 
 
 ○ Benefits to the Agricultural Sector
 
@@ -185,6 +195,7 @@ CropBridge is technically achievable as a prototype and has potential for expans
  • Promotes the use of AI in agriculture.
  
  • Strengthens rural infrastructure and market connectivity.
+ 
 
 ○ Environmental Impact
 
@@ -195,13 +206,15 @@ CropBridge is technically achievable as a prototype and has potential for expans
  • Improved demand prediction can support better resource utilization.
  
  • Reduced product spoilage can help conserve agricultural resources.
+ 
 
-Long-Term Impact
+○ Long-Term Impact
 
 CropBridge aims to create a smarter agricultural distribution network by connecting farmers, buyers, storage facilities and transport providers through one digital platform.
 It can contribute to a more efficient, sustainable and reliable agricultural supply chain.
 
 ## Research and References
+
 Research
 
 The proposed solution is based on research into agricultural supply-chain management, post-harvest management, storage facilities and AI-based forecasting.
