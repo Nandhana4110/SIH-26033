@@ -116,13 +116,13 @@ Business Viability
 
 Challenges and Solutions
 
-        Challenges              |       Proposed Solutions
- Lack of storage facilities     |     Nearby storage locator
- High transportation costs      |       Route optimization
- Unexpected demand changes      |      AI demand prediction
-  Perishable crop wastage       |  Distribution priority alerts
- Limited market information     |     Market recommendation
-Lack of transport availability  |  Transport provider connections
+        Challenges               |       Proposed Solutions
+ Lack of storage facilities      |     Nearby storage locator
+ High transportation costs       |       Route optimization
+ Unexpected demand changes       |      AI demand prediction
+  Perishable crop wastage        |  Distribution priority alerts
+ Limited market information      |     Market recommendation
+Lack of transport availability   |  Transport provider connections
 
 CropBridge is technically achievable as a prototype and has potential for expansion through partnerships with storage facilities, transport providers and agricultural organizations.
 
